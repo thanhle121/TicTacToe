@@ -16,4 +16,5 @@ A simple Tic Tac Toe (3x3 Caro) game designed for two players, built with ReactJ
 ## Get Started
 
 I have deployed on Vercel so you can reach this game through link below
+https://tic-tac-toe-33.vercel.app/
 
